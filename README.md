@@ -1,8 +1,9 @@
-# ecommerce
+# e-commerce
 
-Nama: Nia Surniati
-NPM: 2022804102
+Nama: Nia Surniati  
+NPM: 2022804102  
 Kelas: SI 6A Pagi
+
 
 # 🛍️ E-commerce
 Aplikasi e-commerce sederhana & modern yang dibuat menggunakan **Flutter**.  
@@ -67,6 +68,7 @@ Aplikasi ini mendukung fitur-fitur seperti search & filter produk, wishlist, che
 
 #### Getting Started
 Berikut tampilan dari e-commerce app:
+https://youtu.be/r_dx7NzrRW0?si=6xN9ROHp7LDkf58H 
 https://github.com/niasur/e-commerce/blob/main/src/LKQE88163.MP4
 
 ---
