@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234",
+      "fullName": "Administrator"
+    },
+    {
+      "id": "2af1",
+      "username": "niasur28",
+      "password": "28nias",
+      "fullName": "Nia Sur"
+    },
+    {
+      "id": "a374",
+      "fullName": "Marco Polo",
+      "username": "MarcoPolo",
+      "password": "copol15"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Sandal",
+      "price": 150000,
+      "image": "https://media.karousell.com/media/photos/products/2025/6/4/_havaianas_sandal_original__si_1749017493_236060d1_progressive.jpg",
+      "description": "Sandal santai berbahan karet berkualitas tinggi, cocok untuk digunakan sehari-hari.",
+      "variants": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Sepatu Sport",
+      "price": 250000,
+      "image": "https://lh7-us.googleusercontent.com/Brg1-Tx27yKhxCZqX34lpGTQicwGltno6knVlyQmxM5jL2KxxInZr90Z0NHMFGMGsam6A4E3gfOkjKF9VNxgPfLROvs8F6M-VPtLe9tiVOCvsKIfL8SmVqeVXahyR5FlVOo2jJyrDVwb9OseQGNAgV0",
+      "description": "Sepatu olahraga ringan dan fleksibel dengan ventilasi udara untuk kenyamanan optimal.",
+      "variants": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sneakers White",
+      "price": 200000,
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-11-at-9.43.13%E2%80%AFAM.png",
+      "description": "Sneakers putih klasik yang cocok dipadukan dengan berbagai gaya kasual.",
+      "variants": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Tas Kulit Asli",
+      "price": 400000,
+      "image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/8/60a24976-3b42-4fc1-b3bf-3a537257f44d.jpg",
+      "description": "Tas kulit asli berkualitas premium, elegan dan tahan lama untuk segala aktivitas.",
+      "variants": [
+        "Coklat",
+        "Hitam",
+        "Navy"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "T-Shirt",
+      "price": 175000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-0CKtHZg_gf7quN2eWUGi1HaRU7bFTCnYg&s",
+      "description": "Kaos berbahan katun lembut dan adem, cocok untuk dipakai sehari-hari.",
+      "variants": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Hoodie Casual",
+      "price": 350000,
+      "image": "https://m.media-amazon.com/images/I/31n1R1CxEVL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+      "description": "Hoodie casual yang nyaman untuk kegiatan santai atau outdoor.",
+      "variants": [
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Jacket Denim",
+      "price": 450000,
+      "image": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/id_ID/dwdaea9570/0100-LACCH2601_MK9_24.jpg?imwidth=915&impolicy=product",
+      "description": "Jaket denim stylish yang memberikan tampilan kasual dan trendi.",
+      "variants": [
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Celana Jeans",
+      "price": 275000,
+      "image": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/id_ID/dw6b666820/0100-LACHH7221_ML4_24.jpg?imwidth=915&impolicy=product",
+      "description": "Celana jeans slim fit dengan bahan elastis untuk kenyamanan maksimal.",
+      "variants": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Crewneck Sweater",
+      "price": 300000,
+      "image": "https://asset-3s.3second.co.id/p/product/S10012515OR_1.JPG",
+      "description": "Sweater crewneck dengan bahan fleece lembut dan hangat.",
+      "variants": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Kemeja Formal",
+      "price": 225000,
+      "image": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/id_ID/dw96645da0/0100-LACCH6653_E7B_24.jpg?imwidth=1920&impolicy=product",
+      "description": "Kemeja formal yang elegan dan cocok digunakan untuk kantor atau acara resmi.",
+      "variants": [
+        "15",
+        "15.5",
+        "16",
+        "16.5"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Kemeja Monogram",
+      "price": 450000,
+      "image": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/id_ID/dwf1451465/0100-LACCH9094_GIL_24.jpg?imwidth=915&impolicy=product",
+      "description": "Kemeja bermotif monogram yang unik dan berkarakter.",
+      "variants": [
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ]
+}
